@@ -28,6 +28,7 @@ Telegram Desktop
 gnome calendar
 gnome calculator
 Balena-Etcher
+conky
 Cheese
 lollypop
 VLC
@@ -35,3 +36,9 @@ Discs
 archive manager
 Evince
 Tilix
+Flatpak
+git
+nano
+neofetch
+
+
