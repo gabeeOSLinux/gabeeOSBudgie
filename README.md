@@ -27,11 +27,11 @@ Firefox
 Telegram Desktop
 gnome calendar
 gnome calculator
-Whale Etcher
+Balena-Etcher
 Cheese
 lollypop
 VLC
 Discs
 archive manager
-evence
+Evince
 Tilix
