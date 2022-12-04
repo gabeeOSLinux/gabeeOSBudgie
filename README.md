@@ -14,24 +14,24 @@ Enjoy it!
 
 <p><img src="https://i.postimg.cc/9fj2sxfn/Captura-de-pantalla-de-2022-12-02-22-15-04.png" alt="" /></p>
 
-Softare:
+Software:
 
-Nautilus
+nautilus
 gedit
 Shotwell Photo Manager
-Visor de imágenes
-dconf editor
+Pictures viewer
+dconf-editor
 GParted
 OctoXBPS
 Firefox
 Telegram Desktop
-Gnome calendar
-Gnome calculator
-Balena Etcher
+gnome calendar
+gnome calculator
+Whale Etcher
 Cheese
-Lollypop
+lollypop
 VLC
-Discos
-Gestor de archivadores
-Evince
+Discs
+archive manager
+evence
 Tilix
